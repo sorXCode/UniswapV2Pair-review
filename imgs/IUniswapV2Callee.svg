@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="276pt" height="238pt" viewBox="0.00 0.00 276.23 238.00">
+<g id="graph0" class="graph" transform="translate(4,234) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-234 272.23,-234 272.23,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterIUniswapV2Callee">
+
+<path fill="#445773" stroke="#445773" d="M16,-8C16,-8 158.23,-8 158.23,-8 164.23,-8 170.23,-14 170.23,-20 170.23,-20 170.23,-73 170.23,-73 170.23,-79 164.23,-85 158.23,-85 158.23,-85 16,-85 16,-85 10,-85 4,-79 4,-73 4,-73 4,-20 4,-20 4,-14 10,-8 16,-8" style=""/>
+<text text-anchor="middle" x="87.11" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Callee  (iface)</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="14.11,-93 14.11,-222 260.23,-222 260.23,-93 14.11,-93" style=""/>
+<text text-anchor="middle" x="137.17" y="-205.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- IUniswapV2Callee.uniswapV2Call -->
+<g id="node1" class="node" pointer-events="visible" data-name="IUniswapV2Callee.uniswapV2Call">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="87.11" cy="-34" rx="71.23" ry="18" style=""/>
+<text text-anchor="middle" x="87.11" y="-29.8" font-family="Times,serif" font-size="14.00" style="">uniswapV2Call</text>
+</g>
+<!-- key -->
+<g id="node2" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="152.11,-189 22.11,-189 22.11,-101 152.11,-101 152.11,-189" style=""/>
+<text text-anchor="start" x="71.75" y="-170.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="67.86" y="-150.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="45.32" y="-130.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="31.72" y="-110.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node3" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="252.23,-189 198.23,-189 198.23,-101 252.23,-101 252.23,-189" style=""/>
+<text text-anchor="start" x="212.99" y="-170.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="212.99" y="-150.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="211.23,-125 211.23,-145 239.23,-145 239.23,-125 211.23,-125" style=""/>
+<text text-anchor="start" x="212.99" y="-130.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="213.23,-107 213.23,-123 237.23,-123 237.23,-107 213.23,-107" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge1" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M145.11,-175C170.32,-175 179.06,-175 200.02,-175" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="200.23,-178.5 210.23,-175 200.23,-171.5 200.23,-178.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge2" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M145.11,-155C170.32,-155 179.06,-155 200.02,-155" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="200.23,-158.5 210.23,-155 200.23,-151.5 200.23,-158.5" style=""/>
+</g>
+</g>
+</svg>

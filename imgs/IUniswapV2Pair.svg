@@ -1,0 +1,210 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354pt" height="1642pt" viewBox="0.00 0.00 353.76 1642.00">
+<g id="graph0" class="graph" transform="translate(97.60844814750065,631.7705315110712) scale(0.21643413451251117)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-1638 349.76,-1638 349.76,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterIUniswapV2Pair">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 235.76,-8 235.76,-8 241.76,-8 247.76,-14 247.76,-20 247.76,-20 247.76,-1477 247.76,-1477 247.76,-1483 241.76,-1489 235.76,-1489 235.76,-1489 20,-1489 20,-1489 14,-1489 8,-1483 8,-1477 8,-1477 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="127.88" y="-1472.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Pair  (iface)</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="54.88,-1497 54.88,-1626 337.76,-1626 337.76,-1497 54.88,-1497" style=""/>
+<text text-anchor="middle" x="196.32" y="-1609.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- IUniswapV2Pair.name -->
+<g id="node1" class="node" pointer-events="visible" data-name="IUniswapV2Pair.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1438" rx="31.9" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1433.8" font-family="Times,serif" font-size="14.00" style="">name</text>
+</g>
+<!-- IUniswapV2Pair.symbol -->
+<g id="node2" class="node" pointer-events="visible" data-name="IUniswapV2Pair.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1384" rx="39.45" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1379.8" font-family="Times,serif" font-size="14.00" style="">symbol</text>
+</g>
+<!-- IUniswapV2Pair.decimals -->
+<g id="node3" class="node" pointer-events="visible" data-name="IUniswapV2Pair.decimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1330" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1325.8" font-family="Times,serif" font-size="14.00" style="">decimals</text>
+</g>
+<!-- IUniswapV2Pair.totalSupply -->
+<g id="node4" class="node" pointer-events="visible" data-name="IUniswapV2Pair.totalSupply">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1276" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1271.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- IUniswapV2Pair.balanceOf -->
+<g id="node5" class="node" pointer-events="visible" data-name="IUniswapV2Pair.balanceOf">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1222" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1217.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- IUniswapV2Pair.allowance -->
+<g id="node6" class="node" pointer-events="visible" data-name="IUniswapV2Pair.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1168" rx="50.36" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1163.8" font-family="Times,serif" font-size="14.00" style="">allowance</text>
+</g>
+<!-- IUniswapV2Pair.approve -->
+<g id="node7" class="node" pointer-events="visible" data-name="IUniswapV2Pair.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1114" rx="42.28" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1109.8" font-family="Times,serif" font-size="14.00" style="">approve</text>
+</g>
+<!-- IUniswapV2Pair.transfer -->
+<g id="node8" class="node" pointer-events="visible" data-name="IUniswapV2Pair.transfer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1060" rx="40.54" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1055.8" font-family="Times,serif" font-size="14.00" style="">transfer</text>
+</g>
+<!-- IUniswapV2Pair.transferFrom -->
+<g id="node9" class="node" pointer-events="visible" data-name="IUniswapV2Pair.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-1006" rx="61.39" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-1001.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
+</g>
+<!-- IUniswapV2Pair.DOMAIN_SEPARATOR -->
+<g id="node10" class="node" pointer-events="visible" data-name="IUniswapV2Pair.DOMAIN_SEPARATOR">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-952" rx="111.76" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-947.8" font-family="Times,serif" font-size="14.00" style="">DOMAIN_SEPARATOR</text>
+</g>
+<!-- IUniswapV2Pair.PERMIT_TYPEHASH -->
+<g id="node11" class="node" pointer-events="visible" data-name="IUniswapV2Pair.PERMIT_TYPEHASH">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-898" rx="101.88" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-893.8" font-family="Times,serif" font-size="14.00" style="">PERMIT_TYPEHASH</text>
+</g>
+<!-- IUniswapV2Pair.nonces -->
+<g id="node12" class="node" pointer-events="visible" data-name="IUniswapV2Pair.nonces">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-844" rx="37.7" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-839.8" font-family="Times,serif" font-size="14.00" style="">nonces</text>
+</g>
+<!-- IUniswapV2Pair.permit -->
+<g id="node13" class="node" pointer-events="visible" data-name="IUniswapV2Pair.permit">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-790" rx="36.49" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-785.8" font-family="Times,serif" font-size="14.00" style="">permit</text>
+</g>
+<!-- IUniswapV2Pair.MINIMUM_LIQUIDITY -->
+<g id="node14" class="node" pointer-events="visible" data-name="IUniswapV2Pair.MINIMUM_LIQUIDITY">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-736" rx="111.14" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-731.8" font-family="Times,serif" font-size="14.00" style="">MINIMUM_LIQUIDITY</text>
+</g>
+<!-- IUniswapV2Pair.factory -->
+<g id="node15" class="node" pointer-events="visible" data-name="IUniswapV2Pair.factory">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-682" rx="38.26" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-677.8" font-family="Times,serif" font-size="14.00" style="">factory</text>
+</g>
+<!-- IUniswapV2Pair.token0 -->
+<g id="node16" class="node" pointer-events="visible" data-name="IUniswapV2Pair.token0">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-628" rx="37.14" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-623.8" font-family="Times,serif" font-size="14.00" style="">token0</text>
+</g>
+<!-- IUniswapV2Pair.token1 -->
+<g id="node17" class="node" pointer-events="visible" data-name="IUniswapV2Pair.token1">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-574" rx="37.14" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-569.8" font-family="Times,serif" font-size="14.00" style="">token1</text>
+</g>
+<!-- IUniswapV2Pair.getReserves -->
+<g id="node18" class="node" pointer-events="visible" data-name="IUniswapV2Pair.getReserves">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-520" rx="57.88" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-515.8" font-family="Times,serif" font-size="14.00" style="">getReserves</text>
+</g>
+<!-- IUniswapV2Pair.price0CumulativeLast -->
+<g id="node19" class="node" pointer-events="visible" data-name="IUniswapV2Pair.price0CumulativeLast">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-466" rx="96.71" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-461.8" font-family="Times,serif" font-size="14.00" style="">price0CumulativeLast</text>
+</g>
+<!-- IUniswapV2Pair.price1CumulativeLast -->
+<g id="node20" class="node" pointer-events="visible" data-name="IUniswapV2Pair.price1CumulativeLast">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-412" rx="96.71" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-407.8" font-family="Times,serif" font-size="14.00" style="">price1CumulativeLast</text>
+</g>
+<!-- IUniswapV2Pair.kLast -->
+<g id="node21" class="node" pointer-events="visible" data-name="IUniswapV2Pair.kLast">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-358" rx="32.48" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-353.8" font-family="Times,serif" font-size="14.00" style="">kLast</text>
+</g>
+<!-- IUniswapV2Pair.mint -->
+<g id="node22" class="node" pointer-events="visible" data-name="IUniswapV2Pair.mint">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-304" rx="28.99" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-299.8" font-family="Times,serif" font-size="14.00" style="">mint</text>
+</g>
+<!-- IUniswapV2Pair.burn -->
+<g id="node23" class="node" pointer-events="visible" data-name="IUniswapV2Pair.burn">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-250" rx="28.98" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-245.8" font-family="Times,serif" font-size="14.00" style="">burn</text>
+</g>
+<!-- IUniswapV2Pair.swap -->
+<g id="node24" class="node" pointer-events="visible" data-name="IUniswapV2Pair.swap">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-196" rx="30.76" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-191.8" font-family="Times,serif" font-size="14.00" style="">swap</text>
+</g>
+<!-- IUniswapV2Pair.skim -->
+<g id="node25" class="node" pointer-events="visible" data-name="IUniswapV2Pair.skim">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-142" rx="29.63" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-137.8" font-family="Times,serif" font-size="14.00" style="">skim</text>
+</g>
+<!-- IUniswapV2Pair.sync -->
+<g id="node26" class="node" pointer-events="visible" data-name="IUniswapV2Pair.sync">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-88" rx="28.97" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-83.8" font-family="Times,serif" font-size="14.00" style="">sync</text>
+</g>
+<!-- IUniswapV2Pair.initialize -->
+<g id="node27" class="node" pointer-events="visible" data-name="IUniswapV2Pair.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="127.88" cy="-34" rx="44.65" ry="18" style=""/>
+<text text-anchor="middle" x="127.88" y="-29.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- key -->
+<g id="node28" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="192.88,-1593 62.88,-1593 62.88,-1505 192.88,-1505 192.88,-1593" style=""/>
+<text text-anchor="start" x="112.52" y="-1574.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="108.62" y="-1554.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="86.08" y="-1534.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="72.48" y="-1514.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node29" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="329.76,-1593 275.76,-1593 275.76,-1505 329.76,-1505 329.76,-1593" style=""/>
+<text text-anchor="start" x="290.52" y="-1574.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="290.52" y="-1554.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="288.76,-1529 288.76,-1549 316.76,-1549 316.76,-1529 288.76,-1529" style=""/>
+<text text-anchor="start" x="290.52" y="-1534.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="290.76,-1511 290.76,-1527 314.76,-1527 314.76,-1511 290.76,-1511" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge1" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M185.88,-1579C227.62,-1579 240.5,-1579 277.74,-1579" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="277.76,-1582.5 287.76,-1579 277.76,-1575.5 277.76,-1582.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge2" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M185.88,-1559C227.62,-1559 240.5,-1559 277.74,-1559" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="277.76,-1562.5 287.76,-1559 277.76,-1555.5 277.76,-1562.5" style=""/>
+</g>
+</g>
+</svg>

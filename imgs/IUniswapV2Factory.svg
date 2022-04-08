@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279pt" height="616pt" viewBox="0.00 0.00 278.91 616.00">
+<g id="graph0" class="graph" transform="translate(4,612) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-612 274.91,-612 274.91,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterIUniswapV2Factory">
+
+<path fill="#445773" stroke="#445773" d="M12,-8C12,-8 160.91,-8 160.91,-8 166.91,-8 172.91,-14 172.91,-20 172.91,-20 172.91,-451 172.91,-451 172.91,-457 166.91,-463 160.91,-463 160.91,-463 12,-463 12,-463 6,-463 0,-457 0,-451 0,-451 0,-20 0,-20 0,-14 6,-8 12,-8" style=""/>
+<text text-anchor="middle" x="86.46" y="-446.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Factory  (iface)</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="12.96,-471 12.96,-600 262.91,-600 262.91,-471 12.96,-471" style=""/>
+<text text-anchor="middle" x="137.93" y="-583.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- IUniswapV2Factory.feeTo -->
+<g id="node1" class="node" pointer-events="visible" data-name="IUniswapV2Factory.feeTo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-412" rx="33.61" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-407.8" font-family="Times,serif" font-size="14.00" style="">feeTo</text>
+</g>
+<!-- IUniswapV2Factory.feeToSetter -->
+<g id="node2" class="node" pointer-events="visible" data-name="IUniswapV2Factory.feeToSetter">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-358" rx="56.15" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-353.8" font-family="Times,serif" font-size="14.00" style="">feeToSetter</text>
+</g>
+<!-- IUniswapV2Factory.getPair -->
+<g id="node3" class="node" pointer-events="visible" data-name="IUniswapV2Factory.getPair">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-304" rx="38.28" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-299.8" font-family="Times,serif" font-size="14.00" style="">getPair</text>
+</g>
+<!-- IUniswapV2Factory.allPairs -->
+<g id="node4" class="node" pointer-events="visible" data-name="IUniswapV2Factory.allPairs">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-250" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-245.8" font-family="Times,serif" font-size="14.00" style="">allPairs</text>
+</g>
+<!-- IUniswapV2Factory.allPairsLength -->
+<g id="node5" class="node" pointer-events="visible" data-name="IUniswapV2Factory.allPairsLength">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-196" rx="67.21" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-191.8" font-family="Times,serif" font-size="14.00" style="">allPairsLength</text>
+</g>
+<!-- IUniswapV2Factory.createPair -->
+<g id="node6" class="node" pointer-events="visible" data-name="IUniswapV2Factory.createPair">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-142" rx="49.77" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-137.8" font-family="Times,serif" font-size="14.00" style="">createPair</text>
+</g>
+<!-- IUniswapV2Factory.setFeeTo -->
+<g id="node7" class="node" pointer-events="visible" data-name="IUniswapV2Factory.setFeeTo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-88" rx="46.36" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-83.8" font-family="Times,serif" font-size="14.00" style="">setFeeTo</text>
+</g>
+<!-- IUniswapV2Factory.setFeeToSetter -->
+<g id="node8" class="node" pointer-events="visible" data-name="IUniswapV2Factory.setFeeToSetter">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="85.96" cy="-34" rx="68.91" ry="18" style=""/>
+<text text-anchor="middle" x="85.96" y="-29.8" font-family="Times,serif" font-size="14.00" style="">setFeeToSetter</text>
+</g>
+<!-- key -->
+<g id="node9" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="150.96,-567 20.96,-567 20.96,-479 150.96,-479 150.96,-567" style=""/>
+<text text-anchor="start" x="70.59" y="-548.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="66.7" y="-528.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="44.16" y="-508.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="30.56" y="-488.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node10" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="254.91,-567 200.91,-567 200.91,-479 254.91,-479 254.91,-567" style=""/>
+<text text-anchor="start" x="215.67" y="-548.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="215.67" y="-528.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="213.91,-503 213.91,-523 241.91,-523 241.91,-503 213.91,-503" style=""/>
+<text text-anchor="start" x="215.67" y="-508.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="215.91,-485 215.91,-501 239.91,-501 239.91,-485 215.91,-485" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge1" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M143.96,-553C170.89,-553 180.07,-553 202.71,-553" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="202.91,-556.5 212.91,-553 202.91,-549.5 202.91,-556.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge2" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M143.96,-533C170.89,-533 180.07,-533 202.71,-533" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="202.91,-536.5 212.91,-533 202.91,-529.5 202.91,-536.5" style=""/>
+</g>
+</g>
+</svg>
